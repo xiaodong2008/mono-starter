@@ -23,6 +23,21 @@ Finally, run the following command to install the dependencies:
 pnpm install
 ```
 
+## Add Labels
+
+You should add the following labels to your repository.
+
+| Label                              | Color     |
+| ---------------------------------- | --------- |
+| Status: Needs Triage               | `#BFD4F2` |
+| Status: To Be Discuss              | `#D93F0B` |
+| Status: Pending                    | `#D4C5F9` |
+| Status: In Progress                | `#0052CC` |
+| Status: Solved                     | `#0E8A16` |
+| Resolution: Invalid                | `#FFFFFF` |
+| Resolution: Cannot Replicate       | `#FEF2C0` |
+| Resolution: Needs More Information | `#BAE577` |
+
 ## Sponsors
 
 <div align="center">
